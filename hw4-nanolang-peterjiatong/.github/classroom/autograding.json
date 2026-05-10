@@ -1,0 +1,314 @@
+{
+  "tests": [
+    {
+      "name": "lookup1",
+      "run": "stack test --allow-different-user --ta '--pattern \"lookup1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "lookup2",
+      "run": "stack test --allow-different-user --ta '--pattern \"lookup2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "EBin 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"EBin 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "EBin 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"EBin 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "1a.1",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1a - c1/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "1a.2",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1a - (/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "1b.1",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1b - True/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1b.2",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1b - bt/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1c",
+      "run": "stack test --allow-different-user --ta '--pattern \"1c\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1d",
+      "run": "stack test --allow-different-user --ta '--pattern \"1d\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1e",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1e - eval/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1f.1",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1f - rec/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1f.2",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1f - VPrim 1/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1f.3",
+      "run": "stack test --allow-different-user --ta '--pattern \"/1f - VPrim 2/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "1e/f",
+      "run": "stack test --allow-different-user --ta '--pattern \"/sumList tail/\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t1.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t1.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t2.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t2.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t3.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t3.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t4.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t4.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t5.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t5.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t6.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t6.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t8.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t8.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t9.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t9.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t10.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t10.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t11.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t11.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t12.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t12.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t13.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t13.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t14.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t14.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t15.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t15.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t16.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t16.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    },
+    {
+      "name": "t17.hs",
+      "run": "stack test --allow-different-user --ta '--pattern \"t17.hs\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6.0
+    }
+  ]
+}

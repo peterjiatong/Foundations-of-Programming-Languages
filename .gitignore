@@ -1,1 +1,33 @@
+# macOS
 .DS_Store
+
+# Haskell / Stack
+.stack-work/
+dist/
+dist-newstyle/
+*.hi
+*.o
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+*.prof
+*.aux
+*.hp
+*.eventlog
+.ghc.environment.*
+
+# Cabal
+cabal.project.local
+cabal.project.local~
+.cabal-sandbox/
+cabal.sandbox.config
+
+# Logs / locks
+*.log
+stack.yaml.lock
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
