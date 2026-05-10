@@ -1,0 +1,4 @@
+.stack-work/*
+*.tgz
+*.lock
+*.swp

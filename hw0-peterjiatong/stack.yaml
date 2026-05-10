@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+
+packages:
+- '.' 
+
+extra-deps:
+- dequeue-0.1.12
+- elsa-0.2.1.2
+
+resolver: lts-19.20

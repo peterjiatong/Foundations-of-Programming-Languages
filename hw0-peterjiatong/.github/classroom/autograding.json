@@ -1,0 +1,224 @@
+{
+  "tests": [
+    {
+      "name": "not_false",
+      "setup": "",
+      "run": "stack run -- -p not_false",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "and_false_true",
+      "setup": "",
+      "run": "stack run -- -p and_false_true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "or_true_false",
+      "setup": "",
+      "run": "stack run -- -p or_true_false",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "suc_one",
+      "setup": "",
+      "run": "stack run -- -p suc_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "add_one_zero",
+      "setup": "",
+      "run": "stack run -- -p add_one_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "add_one_two",
+      "setup": "",
+      "run": "stack run -- -p add_one_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "skip1_false",
+      "setup": "",
+      "run": "stack run -- -p skip1_false",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "skip1_true_zero",
+      "setup": "",
+      "run": "stack run -- -p skip1_true_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "skip1_true_one",
+      "setup": "",
+      "run": "stack run -- -p skip1_true_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "decr_zero",
+      "setup": "",
+      "run": "stack run -- -p decr_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "decr_one",
+      "setup": "",
+      "run": "stack run -- -p decr_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "decr_two",
+      "setup": "",
+      "run": "stack run -- -p decr_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "sub_two_zero",
+      "setup": "",
+      "run": "stack run -- -p sub_two_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "sub_two_one",
+      "setup": "",
+      "run": "stack run -- -p sub_two_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "sub_two_two",
+      "setup": "",
+      "run": "stack run -- -p sub_two_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "sub_two_three",
+      "setup": "",
+      "run": "stack run -- -p sub_two_three",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "isz_zero",
+      "setup": "",
+      "run": "stack run -- -p isz_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "isz_one",
+      "setup": "",
+      "run": "stack run -- -p isz_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "eq_zero_zero",
+      "setup": "",
+      "run": "stack run -- -p eq_zero_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "eq_zero_one",
+      "setup": "",
+      "run": "stack run -- -p eq_zero_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "eq_one_two",
+      "setup": "",
+      "run": "stack run -- -p eq_one_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "eq_two_two",
+      "setup": "",
+      "run": "stack run -- -p eq_two_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}

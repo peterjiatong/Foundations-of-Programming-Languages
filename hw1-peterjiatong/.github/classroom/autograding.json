@@ -1,0 +1,164 @@
+{
+  "tests": [
+    { 
+      "name": "sumList 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"sumList 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "sumList 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"sumList 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "sumList 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"sumList 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "sumList 4",
+      "run": "stack test --allow-different-user --ta '--pattern \"sumList 4\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+    { 
+      "name": "digitsOfInt 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"digitsOfInt 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "digitsOfInt 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"digitsOfInt 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "digits 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"digits 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "digits 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"digits 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+     { 
+      "name": "additivePersistence 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"additivePersistence 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+     { 
+      "name": "additivePersistence 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"additivePersistence 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+     { 
+      "name": "digitalRoot 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"digitalRoot 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+     { 
+      "name": "digitalRoot 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"digitalRoot 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+     { 
+      "name": "reverse 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"reverse 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7.5
+    },
+     { 
+      "name": "reverse 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"reverse 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7.5
+    },
+     { 
+      "name": "palindrome 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"palindrome 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+     { 
+      "name": "palindrome 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"palindrome 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
